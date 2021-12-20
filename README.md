@@ -1,4 +1,4 @@
 # tes-kelas-pintar
 
-## run program bisa menggunakan node namafile.js
-### contoh node soal2.js
+## hasil dari function yang di buat ada di console log berdasarkan nama soal
+### bisa menggunakan node (contoh node soal2.js)

@@ -1,3 +1,4 @@
+// soal 3
 function passValidation(pass) {
     if (pass.length >= 8 && pass.length <= 32) {
         if (pass.substring(0, 1).match("\\d")) {

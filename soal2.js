@@ -1,3 +1,4 @@
+// soal 2
 const words =
     "Berikut adalah kisah sang gajah. Sang gajah memiliki teman serigala bernama DoeSang. Gajah sering dibela oleh serigala ketika harimau mendekati gajah.";
 

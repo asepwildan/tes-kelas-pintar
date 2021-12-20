@@ -1,3 +1,4 @@
+// soal 4
 function findMin(array) {
     var temp = 0;
     for (var i = 0; i < array.length; i++) {
